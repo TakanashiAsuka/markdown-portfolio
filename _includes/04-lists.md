@@ -1,4 +1,4 @@
 # hello
-apple
-☆
-nishi
+- apple
+- ☆
+- nishi
